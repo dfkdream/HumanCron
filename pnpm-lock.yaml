@@ -1,5 +1,10 @@
 lockfileVersion: '6.0'
 
+dependencies:
+  uikit:
+    specifier: ^3.16.17
+    version: 3.16.17
+
 devDependencies:
   '@sveltejs/adapter-auto':
     specifier: ^2.0.0
@@ -494,6 +499,10 @@ packages:
     resolution: {integrity: sha512-sf4i37nQ2LBx4m3wB74y+ubopq6W/dIzXg0FDGjsYnZHVa1Da8FH853wlL2gtUhg+xJXjfk3kUZS3BRoQeoQBQ==}
     engines: {node: '>=6'}
     dev: true
+
+  /uikit@3.16.17:
+    resolution: {integrity: sha512-nLg75OxuapYMvFMxiy21pU1GAAM+C8g3R2esDwu1QUQRS/xUJ63K6NoWf2+L1U7CQoWy+lp7z7jX8qdFt+lzBg==}
+    dev: false
 
   /undici@5.22.0:
     resolution: {integrity: sha512-fR9RXCc+6Dxav4P9VV/sp5w3eFiSdOjJYsbtWfd4s5L5C4ogyuVpdKIVHeW0vV1MloM65/f7W45nR9ZxwVdyiA==}
